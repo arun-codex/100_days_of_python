@@ -18,14 +18,14 @@ Comments are used to explain Python code and make it more readable. They are ign
 
 ## Files in this Chapter
 
-*   **[first.py](file:///c:/Users/mraru/Code/Chapter_01/first.py)**: The classic "Hello, World!" program.
-*   **[modul.py](file:///c:/Users/mraru/Code/Chapter_01/modul.py)**: Demonstrates importing an external module (`pyjokes`) to print a random joke.
+*   **[first.py](./first.py)**: The classic "Hello, World!" program.
+*   **[modul.py](./modul.py)**: Demonstrates importing an external module (`pyjokes`) to print a random joke.
 
 ---
 
 ## Practice Set (Chapter_01 PS)
 
-The practice set files are located in the sister directory **[Chapter_01 PS](file:///c:/Users/mraru/Code/Chapter_01%20PS)**:
-*   **[Problem_1.py](file:///c:/Users/mraru/Code/Chapter_01%20PS/Problem_1.py)**: Prints a poem using multi-line strings.
-*   **[Problem_3.py](file:///c:/Users/mraru/Code/Chapter_01%20PS/Problem_3.py)**: Uses the `pyttsx3` external module to convert text-to-speech.
-*   **[Problem_4.py](file:///c:/Users/mraru/Code/Chapter_01%20PS/Problem_4.py)**: Uses the built-in `os` module to list the contents of a directory.
+The practice set files are located in the sister directory **[Chapter_01 PS](../Chapter_01%20PS)**:
+*   **[Problem_1.py](../Chapter_01%20PS/Problem_1.py)**: Prints a poem using multi-line strings.
+*   **[Problem_3.py](../Chapter_01%20PS/Problem_3.py)**: Uses the `pyttsx3` external module to convert text-to-speech.
+*   **[Problem_4.py](../Chapter_01%20PS/Problem_4.py)**: Uses the built-in `os` module to list the contents of a directory.
